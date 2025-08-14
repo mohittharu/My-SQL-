@@ -49,3 +49,4 @@ select count(first_name) from student where age=22;
 -- having group by ma matra aauxa 
 -- where chaii normal use hunxa 
 
+this is for test
