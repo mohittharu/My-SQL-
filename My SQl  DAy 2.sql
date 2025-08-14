@@ -50,3 +50,4 @@ select count(first_name) from student where age=22;
 -- where chaii normal use hunxa 
 
 this is for test
+just for practice
